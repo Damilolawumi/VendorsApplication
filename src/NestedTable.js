@@ -59,6 +59,7 @@ function NestedTable() {
         <div className='nested-container'>
             <Table
                 loading={loading}
+                bordered
                 className="components-table-demo-nested"
                 columns={columns}
                 expandable={{expandedRowRender}}
