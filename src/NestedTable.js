@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {Menu, Table} from 'antd';
+import {Table} from 'antd';
 import axios from 'axios';
 
 function NestedTable() {
