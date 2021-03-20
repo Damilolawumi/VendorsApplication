@@ -49,6 +49,7 @@
 .nested-container {
     max-width: 1240px;
     margin: auto;
+    text-align: right;
 }
 
 @media  (min-width:468px) and (max-width:768px) {
