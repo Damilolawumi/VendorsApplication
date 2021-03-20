@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Harish2JuneVendor",
+    "total_spend": "$50,000",
+    "active_contract": "Inactive",
+    "source": "QUICK_BOOKS",
+    "contract_value": "$1",
+    "applications":[
+
+    ]
+  },
+
+  {
+    "name": "Box",
+    "total_spend": "$2,176",
+    "active_contract": "Active",
+    "source": "Excel",
+    "contract_value": "$10,000",
+    "applications":[
+      {
+        "application_name": "Zoom",
+        "category": "Screen Sharing Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Loom",
+        "category": "Sharing Data",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Tesla",
+        "category": "Self Driving Cars",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  },
+
+  {
+    "name": "Apple Store",
+    "total_spend": "$1,212",
+    "active_contract": "Inactive",
+    "source": "EXPENSIFY",
+    "contract_value": "$1",
+    "applications":[
+      {
+        "application_name": "Calendly",
+        "category": "Date Scheduling Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Wordpress",
+        "category": "Blog Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Loom",
+        "category": "Video CMS Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Emma Inc",
+        "category": "Email Tracking Software",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  },
+
+  {
+    "name": "newVendor",
+    "total_spend": "$1,000",
+    "active_contract": "Inactive",
+    "source": "QUICK_BOOKS",
+    "contract_value": "$1000",
+    "applications":[
+    ]
+  },
+
+  {
+    "name": "Verizon",
+    "total_spend": "$333",
+    "active_contract": "Inactive",
+    "source": "EXCEL",
+    "contract_value": "$333",
+    "applications":[
+      {
+        "application_name": "Intuit",
+        "category": "Accounting Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Tesla",
+        "category": "Self Driving Cars",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  },
+
+  {
+    "name": "V2 Vikas Vashista",
+    "total_spend": "$324",
+    "active_contract": "Inactive",
+    "source": "QUICK_BOOKS",
+    "contract_value": "$324",
+    "applications":[
+      {
+        "application_name": "Intuit",
+        "category": "Accounting Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Tesla",
+        "category": "Self Driving Cars",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  },
+
+  {
+    "name": "Cloudeagle",
+    "total_spend": "$200",
+    "active_contract": "Active",
+    "source": "",
+    "contract_value": "$200",
+    "applications":[
+      {
+        "application_name": "Intuit",
+        "category": "Accounting Software",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  },
+
+  {
+    "name": "Verizon Wireless",
+    "total_spend": "$200",
+    "active_contract": "Inactive",
+    "source": "EXPENSIFY",
+    "contract_value": "$300",
+    "applications":[
+      {
+        "application_name": "Intuit",
+        "category": "Accounting Software",
+        "app_covered_in_contract": "No"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Dec14Test4",
+    "total_spend": "$150",
+    "active_contract": "Inactive",
+    "source": "EXCEL",
+    "contract_value": "$150",
+    "applications":[
+      {
+        "application_name": "HubSpot",
+        "category": "Conversational Marketing Software",
+        "app_covered_in_contract": "No"
+      },
+      {
+        "application_name": "Bimser International",
+        "category": "Content Management Software",
+        "app_covered_in_contract": "No"
+      }
+    ]
+  }
+]
