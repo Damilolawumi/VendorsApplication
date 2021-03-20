@@ -72,7 +72,7 @@ function NestedTable() {
             <Table
                 loading={loading}
                 bordered
-                scroll={{ x: 1300 }}
+                scroll={{ x: 'max-content' }}
                 className="components-table-demo-nested"
                 columns={columns}
                 expandable={{expandedRowRender}}
