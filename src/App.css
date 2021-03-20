@@ -37,6 +37,11 @@
   }
 }
 
+.app-container{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
 .nested-container{
   width: 1240px;
   margin: auto;

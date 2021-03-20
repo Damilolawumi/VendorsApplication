@@ -45,7 +45,9 @@ function NestedTable() {
 
     const columns = [
         {title: 'Name', dataIndex: 'name', key: 'name'},
-        // {title: '# of Applications', dataIndex: 'platform', key: 'platform'},
+        {title: '# of Applications', dataIndex: 'platform', key: 'platform', render: (text, record, index)=> {
+            return <p key={index}>{record?.applications?.length} Apps</p>
+            }},
         {title: 'Total Spend', dataIndex: 'total_spend', key: 'total_spend'},
         {title: 'Active Contract', dataIndex: 'active_contract', key: 'active_contract'},
         {title: 'Source', dataIndex: 'source', key: 'source'},
